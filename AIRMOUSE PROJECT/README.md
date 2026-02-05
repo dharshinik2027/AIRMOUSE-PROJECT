@@ -63,6 +63,7 @@ Portable and low-cost design
 
 
 
+
 🚀 How to Run the Project
 
 Connect the MPU6050 to Arduino/ESP32
