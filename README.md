@@ -1,4 +1,6 @@
 # AIRMOUSE-PROJECT
+This project implements an Air Mouse using an MPU6050 sensor and a microcontroller to control the computer cursor through hand movements. The system detects tilt and motion and converts them into real-time cursor movement and click actions, providing a portable and low-cost alternative to a traditional mouse.
+
     #include <Wire.h>
     #include <Adafruit_MPU6050.h>
     #include <Adafruit_Sensor.h>
